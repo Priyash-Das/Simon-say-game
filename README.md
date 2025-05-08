@@ -8,6 +8,8 @@ The goal is to **match the entire color sequence in order** without making a mis
 
 It’s a great way to test your memory and reflexes with a colorful and responsive interface!
 
+> Play now >> [Click here](https://priyash-das.github.io/Simon-say-game/)
+
 ---
 
 ## ⚙️ How the Game Works (As Coded)
